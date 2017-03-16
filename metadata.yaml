@@ -1,5 +1,8 @@
 _repo: Daddy-Long-Legs_157
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Webster, Jean
@@ -15,6 +18,8 @@ description: "Daddy-Long-Legs is a 1912 epistolary novel by the American writer 
   \ Webster. It follows the protagonist, a young girl named Jerusha \"Judy\" Abbott,\
   \ through her college years. She writes the letters to her benefactor, a rich man\
   \ whom she has never seen.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/157#Daddy-Long-Legs
 gutenberg_bookshelf: School Stories
 gutenberg_issued: '1994-08-01'
 gutenberg_type: Text
